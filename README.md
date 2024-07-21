@@ -38,8 +38,6 @@
         └── 01_create_data.ipynb
         └── 02_create_database.sql
         └── 03_segment_customers.ipynb
-        └── README.md
-        └── customer_db.sqlite
     └── 📁data
         └── brands.csv
         └── customer_loyalty.csv
