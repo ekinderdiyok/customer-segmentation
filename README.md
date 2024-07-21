@@ -5,7 +5,14 @@
 3. Plots entity-relationship diagram (ERD).
 3. Segments customers using Recency-Frequency-Monetary (RFM) and K-Means Clustering models.
 
-.
+<!-- Language: Markdown -->
+
+<div style="padding-left: 20px; background-color: orange;">
+  <p>
+    This is a paragraph with left padding and an orange background.
+  </p>
+</div>
+
 
 <div style="border-left: 10px solid #ff6900; padding-left: 15px;">
 
