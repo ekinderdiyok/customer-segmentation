@@ -90,11 +90,12 @@
 ```
 └── 📁customer-segmentation
     └── README.md
-    └── entity_relationship_diagram.erd
     └── 📁code
         └── 01_create_data.ipynb
         └── 02_create_database.sql
         └── 03_segment_customers.ipynb
+        └── README.md
+        └── customer_db.sqlite
     └── 📁data
         └── brands.csv
         └── customer_loyalty.csv
@@ -102,6 +103,10 @@
         └── loyalty_programs.csv
         └── order_brands.csv
         └── orders.csv
+    └── 📁erd
+        └── erd.json
+        └── erd.png
+        └── erd.sql
 ```
 
 ## Code
