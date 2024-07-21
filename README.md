@@ -5,18 +5,6 @@
 3. Plots entity-relationship diagram (ERD).
 3. Segments customers using Recency-Frequency-Monetary (RFM) and K-Means Clustering models.
 
-
-
-
-
-## Executive Report 
-
-**Objective:** Identify distinct customer segments, develop targeted marketing strategies, A/B test the strategies (not part of this project).
-
-**Methodology:** Queried customers and orders database for demographics, purchasing data, membership statuses (plus, loyalty programs, newsletter) and segmented the data.
-
-**Results:** Following customer segments were identified with actionable insights for boosting customer value and retention.
-
 ## Executive Report 
 
 **Objective:** Identify distinct customer segments, develop targeted marketing strategies, A/B test the strategies (not part of this project).
@@ -41,17 +29,6 @@
 | Youthful & Sporty | Young, Nike Loyalty, frequent but small orders.                       | Loyalty program increases sales, keep it up!                                             |
 | Quality over Quantity | Middle-aged, infrequent yet large orders, affinity to Polo Ralph Lauren. | Stick with a traditional campaign calendar (e.g., Christmas, Black Friday).               |
 | Edgy              | Fashion-conscious, niche brands like Zign.                            | Target them with limited quantity, exclusive brands.                                     |
-
-
-
-
-
-
-
-
-
-
-
 
 ## Folder Structure
 ```
