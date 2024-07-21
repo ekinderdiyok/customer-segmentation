@@ -74,7 +74,7 @@ This Jupyter notebook performs customer segmentation analysis. **Recency-Frequen
 
 ## Entity-Relationship Diagram
 
-![Entity-Relationship Diagram](erd.erd)
+![Entity-Relationship Diagram](erd.png)
 
 ## Contact
 
