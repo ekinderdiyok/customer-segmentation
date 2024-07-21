@@ -5,11 +5,11 @@
 3. Plots entity-relationship diagram (ERD).
 3. Segments customers using Recency-Frequency-Monetary (RFM) and K-Means Clustering models.
 
-
+.
 
 <div style="border-left: 10px solid #ff6900; padding-left: 15px;">
 
-## Executive Report
+## Executive Report 
 
 **Objective:** Identify distinct customer segments, develop targeted marketing strategies, A/B test the strategies (not part of this project).
 
