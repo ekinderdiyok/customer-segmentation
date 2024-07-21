@@ -17,65 +17,30 @@
 
 **Results:** Following customer segments were identified with actionable insights for boosting customer value and retention.
 
-**Customer Segments (Recency-Frequency-Monetary):**
+## Executive Report 
 
-<table style="background-color: #FFF3E0; width:100%;">
-  <tr>
-    <th>Segment</th>
-    <th>Description</th>
-    <th>Action</th>
-  </tr>
-  <tr>
-    <td>Champion</td>
-    <td>Best customers. Buys often and big. Has purchased recently.</td>
-    <td>Analyze them to better understand our product-market fit and main buying personas.</td>
-  </tr>
-  <tr>
-    <td>Potential Loyalist</td>
-    <td>Similar to a champion but with smaller order size and frequency.</td>
-    <td>Target them with a loyalty program.</td>
-  </tr>
-  <tr>
-    <td>New Customer</td>
-    <td>Recent purchase, but little to no order history.</td>
-    <td>Introduce them to our website (e.g., style advice).</td>
-  </tr>
-  <tr>
-    <td>At Risk</td>
-    <td>Low recency, occasional buying.</td>
-    <td>Create sense of urgency with a flash deal.</td>
-  </tr>
-  <tr>
-    <td>Other</td>
-    <td>Mid-scores, no clear insight.</td>
-    <td>Try a different model or target with low-cost, non-personalized, fail-safe methods.</td>
-  </tr>
-</table>
+**Objective:** Identify distinct customer segments, develop targeted marketing strategies, A/B test the strategies (not part of this project).
+
+**Methodology:** Queried customers and orders database for demographics, purchasing data, membership statuses (plus, loyalty programs, newsletter) and segmented the data.
+
+**Results:** Following customer segments were identified with actionable insights for boosting customer value and retention.
+
+**Customer Segments (Recency-Frequency-Monetary):**
+| Segment           | Description                                                           | Action                                                                                   |
+|-------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| Champion          | Best customers. Buys often and big. Has purchased recently.           | Analyze them to better understand our product-market fit and main buying personas.       |
+| Potential Loyalist| Similar to a champion but with smaller order size and frequency.      | Target them with a loyalty program.                                                      |
+| New Customer      | Recent purchase, but little to no order history.                      | Introduce them to our website (e.g., style advice).                                      |
+| At Risk           | Low recency, occasional buying.                                       | Create sense of urgency with a flash deal.                                               |
+| Other             | Mid-scores, no clear insight.                                         | Try a different model or target with low-cost, non-personalized, fail-safe methods.      |
 
 **Customer Segments (K-Means Clustering):**
 
-<table style="background-color: #FFF3E0; width:100%;">
-  <tr>
-    <th>Segment</th>
-    <th>Description</th>
-    <th>Action</th>
-  </tr>
-  <tr>
-    <td>Youthful & Sporty</td>
-    <td>Young, Nike Loyalty, frequent but small orders.</td>
-    <td>Loyalty program increases sales, keep it up!</td>
-  </tr>
-  <tr>
-    <td>Quality over Quantity</td>
-    <td>Middle-aged, infrequent yet large orders, affinity to Polo Ralph Lauren.</td>
-    <td>Stick with a traditional campaign calendar (e.g., Christmas, Black Friday).</td>
-  </tr>
-  <tr>
-    <td>Edgy</td>
-    <td>Fashion-conscious, niche brands like Zign.</td>
-    <td>Target them with limited quantity, exclusive brands.</td>
-  </tr>
-</table>
+| Segment           | Description                                                           | Action                                                                                   |
+|-------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| Youthful & Sporty | Young, Nike Loyalty, frequent but small orders.                       | Loyalty program increases sales, keep it up!                                             |
+| Quality over Quantity | Middle-aged, infrequent yet large orders, affinity to Polo Ralph Lauren. | Stick with a traditional campaign calendar (e.g., Christmas, Black Friday).               |
+| Edgy              | Fashion-conscious, niche brands like Zign.                            | Target them with limited quantity, exclusive brands.                                     |
 
 
 
