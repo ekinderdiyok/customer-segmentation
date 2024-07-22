@@ -1,19 +1,17 @@
 # Segmenting Customers of an Online Fashion Retailer 
 
-1. Generates random data using Python.
-2. Builds a local PostgreSQL database.
-3. Plots entity-relationship diagram (ERD).
-3. Segments customers using Recency-Frequency-Monetary (RFM) and K-Means Clustering models.
+## Executive Summary 
 
-## Executive Report 
+**Background:**
+As part of its customer-centric approach, our online fashion retailer should understand and segment its diverse customer base to effectively channel marketing resources and increase customer retention.
 
-**Objective:** Identify distinct customer segments, develop targeted marketing strategies, A/B test the strategies (not part of this project).
+**Objectives:** Identify distinct customer segments, develop targeted marketing strategies, A/B test the strategies (not part of this project).
 
-**Methodology:** Queried customers and orders database for demographics, purchasing data, membership statuses (plus, loyalty programs, newsletter) and segmented the data.
+**Methodology:** Generate random (but tilted) data, build a PostgreSQL database, plot entity-relationship diagram (ERD). Write complex queries with CTEs, segment customers according to demographics, purchasing data, membership statuses (plus, loyalty programs, newsletter) using Recency-Frequency-Monetary (RFM) and K-Means Clustering models.
 
-**Results:** Following customer segments were identified with actionable insights for boosting customer value and retention.
+**Recommendations:** Following customer segments were identified with actionable insights for boosting customer value and retention.
 
-**Customer Segments (Recency-Frequency-Monetary):**
+### Customer Segments (Recency-Frequency-Monetary)
 | Segment           | Description                                                           | Action                                                                                   |
 |-------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | Champion          | Best customers. Buys often and big. Has purchased recently.           | Analyze them to better understand our product-market fit and main buying personas.       |
@@ -22,7 +20,7 @@
 | At Risk           | Low recency, occasional buying.                                       | Create sense of urgency with a flash deal.                                               |
 | Other             | Mid-scores, no clear insight.                                         | Try a different model or target with low-cost, non-personalized, fail-safe methods.      |
  
-**Customer Segments (K-Means Clustering):**
+### Customer Segments (K-Means Clustering):
 
 | Segment           | Description                                                           | Action                                                                                   |
 |-------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------------------------|
@@ -57,7 +55,7 @@
 This Jupyter notebook is used for generating all the CSV files in the `📁data` folder. The data are random, yet biased, such that it yields some fruitful results for customer segmentation. The data are created by the author and are not downloaded from anywhere.
 
 ### `02_create_database.sql`
-This SQL script is responsible for creating the database schema. It defines the tables, relationships, and constraints necessary to store the customer, order, brand, and loyalty program data.
+This SQL script is responsible for creating the database schema. It creates a local PostgreSQL database on user's computer. It defines the tables, relationships, and constraints necessary to store the customer, order, brand, and loyalty program data. 
 
 ### `03_segment_customers.ipynb`
 This Jupyter notebook performs customer segmentation analysis. **Recency-Frequency-Monetary (RFM)** and **K-Means Clustering** were used to segment customers.
