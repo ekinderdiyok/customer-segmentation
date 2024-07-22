@@ -18,7 +18,7 @@
 |-------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | Champion          | Best customers. Buys often and big. Has purchased recently.           | Analyze them to better understand our product-market fit and main buying personas.       |
 | Potential Loyalist| Similar to a champion but with smaller order size and frequency.      | Target them with a loyalty program.                                                      |
-| New Customer      | Recent purchase, but little to no order history.                      | Introduce them to our website (e.g., style advice).                                      |
+| New Customer      | Recent purchase, but little to no order history.                      | Introduce them to novel features on our website, since they probably do not know (e.g., style advice, augmented reality).                                      |
 | At Risk           | Low recency, occasional buying.                                       | Create sense of urgency with a flash deal.                                               |
 | Other             | Mid-scores, no clear insight.                                         | Try a different model or target with low-cost, non-personalized, fail-safe methods.      |
  
