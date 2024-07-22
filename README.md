@@ -21,14 +21,14 @@
 | New Customer      | Recent purchase, but little to no order history.                      | Introduce them to our website (e.g., style advice).                                      |
 | At Risk           | Low recency, occasional buying.                                       | Create sense of urgency with a flash deal.                                               |
 | Other             | Mid-scores, no clear insight.                                         | Try a different model or target with low-cost, non-personalized, fail-safe methods.      |
-
+ 
 **Customer Segments (K-Means Clustering):**
 
 | Segment           | Description                                                           | Action                                                                                   |
 |-------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | Youthful & Sporty | Young, Nike Loyalty, frequent but small orders.                       | Loyalty program increases sales, keep it up!                                             |
 | Quality over Quantity | Middle-aged, infrequent yet large orders, affinity to Polo Ralph Lauren. | Stick with a traditional campaign calendar (e.g., Christmas, Black Friday).               |
-| Edgy              | Fashion-conscious, niche brands like Zign.                            | Target them with limited quantity, exclusive brands.                                     |
+| Others              | No clear insight.                           | Try a different model or target with low-cost, non-personalized, fail-safe methods.                                     |
 
 ## Folder Structure
 ```
