@@ -3,7 +3,7 @@
  * Author: Ekin Derdiyok
  * Date: 2024-07-20 (start)
  * Email: ekin.derdiyok@icloud.com
- * GitHub: github.com/ekinderdiyok
+ * GitHub: github.com/ekinderdiyok/customer-segmentation
 
  * Description: This script creates and populates the customer database for segmentation analysis. 
  * It includes the creation of tables, data import commands, and data validation checks.
